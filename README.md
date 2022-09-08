@@ -1,4 +1,4 @@
-# vue2-project
+# A private blog
 
 > A Vue.js project
 
